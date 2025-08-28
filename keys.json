@@ -1,0 +1,14 @@
+{
+  "valid_keys": [
+    "GAMBO-2025-HWVIRT-001",
+    "GAMBO-2025-HWVIRT-002", 
+    "GAMBO-2025-HWVIRT-003",
+    "GAMBO-PRO-VIRTUALIZER-001",
+    "GAMBO-ENTERPRISE-2025-001",
+    "DEMO-KEY-12345",
+    "TEST-GAMBO-KEY-999"
+  ],
+  "last_updated": "2025-08-28T11:30:00Z",
+  "description": "GAMBO Hardware Virtualizer License Keys",
+  "version": "1.0"
+}
